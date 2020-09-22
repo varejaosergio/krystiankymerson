@@ -37,7 +37,7 @@
       "titulo": "Brazilian Storms",
       "cor": "red",
       "link_extra": {
-        "text": "Best videos launched in the market",
+        "text": "WT surfers from Brasil",
         "url": "https://www.youtube.com/watch?v=oSR8irQRdWs&t=194s"
       }
     }
@@ -204,6 +204,12 @@
       "categoriaId": 3,
       "titulo": "KRYSTIAN KYMERSON • UM PEDAÇO DE UM SONHO",
       "url": "https://www.youtube.com/watch?v=sy4rcFj5VOM"
-    }   
+    },
+    {
+      "titulo": "Video padrão",
+      "url": "https://www.youtube.com/watch?v=BWGaYeqBF-g",
+      "categoriaId": 4,
+      "id": 25
+    } 
   ]
 }
